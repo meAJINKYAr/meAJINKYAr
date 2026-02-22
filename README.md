@@ -14,14 +14,14 @@ A pragmatic, mid‑level software engineer building reliable, user-focused web a
 ## 🧰 Skills
 
 <p>
+  <img src="https://img.shields.io/badge/AI-111827?logo=openai&logoColor=white" alt="AI" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white" alt="Vue.js" />
   <img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/AI-111827?logo=openai&logoColor=white" alt="AI" />
 </p>
 
 - Languages & frameworks: JavaScript (ES6+), Python, Node.js, React, Vue
